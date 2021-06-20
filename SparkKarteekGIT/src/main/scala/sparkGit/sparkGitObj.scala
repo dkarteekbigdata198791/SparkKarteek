@@ -1,0 +1,5 @@
+package sparkGit
+
+object sparkGitObj {
+  
+}
